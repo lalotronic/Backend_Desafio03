@@ -36,8 +36,8 @@ CREATE TABLE posts (id SERIAL, titulo VARCHAR(25), img VARCHAR(1000),
 ('Chris Hemsworth', 'https://i.pinimg.com/736x/b6/49/ea/b649ea2a34390999b28a9e3f5640a003.jpg', 'Conocido por interpretar a Thor en el MCU.', 1800);
 drop table posts;
 <br>
-![Imagen de la página]
 
-<img src="https://github.com/lalotronic/Backend_Desafio03/blob/main/likeme.png" alt="Front likeme" width="50%">
+
+<img src="https://github.com/lalotronic/Backend_Desafio03/blob/main/likeme.png" alt="Front likeme" width="70%">
 
   
