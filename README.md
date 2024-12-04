@@ -1,11 +1,10 @@
 # Backend_Desafio03
 Pasos para hacer correr el proyecto
-
-1. instalar vite npm install vite
-   npm init -y
-   npm install express
-   npm install pg
-   instalamos cors npm install cors
+   1.instalar vite npm install vite
+   2.npm init -y
+   3.npm install express
+   4.npm install pg
+   5.instalamos cors npm install cors
 
 creamos el index.js  con los requerimientos de:
 -crear una ruta GET que devuelva los registros de la tabla de la BD
