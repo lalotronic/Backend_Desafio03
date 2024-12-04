@@ -35,5 +35,5 @@ CREATE TABLE posts (id SERIAL, titulo VARCHAR(25), img VARCHAR(1000),
 ('Scarlett Johansson', 'https://i.pinimg.com/736x/fc/b2/fd/fcb2fd0ea0ffd4de11d4b27dad1fa872.jpg', 'Famosa por su papel como Black Widow.', 2000),
 ('Chris Hemsworth', 'https://i.pinimg.com/736x/b6/49/ea/b649ea2a34390999b28a9e3f5640a003.jpg', 'Conocido por interpretar a Thor en el MCU.', 1800);
 drop table posts;
-
+![Imagen de la página](https://github.com/lalotronic/Backend_Desafio03/edit/main//likeme.png)
   
