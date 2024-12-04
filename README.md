@@ -24,7 +24,7 @@ Nota: en la funcion agregarPost del App.js front, cambie url por img<br>
     const post = { titulo, img: imgSrc, descripcion };
     await axios.post(urlBaseServer + "/posts", post);
     getPosts();
-  };<br> *********************************************************** <br>
+  };<br>******************************************************************** <br>
   __Datos usados en la base de datos:__<br>
 CREATE TABLE posts (id SERIAL, titulo VARCHAR(25), img VARCHAR(1000),
  descripcion VARCHAR(255), likes INT);<br><br>
