@@ -6,9 +6,9 @@ Pasos para hacer correr el proyecto<br><br>
    4.npm install pg<br>
    5.instalamos cors npm install cors<br>
 
-creamos el index.js  con los requerimientos de:
--crear una ruta GET que devuelva los registros de la tabla de la BD
--crear una ruta POST que reciba y almacene un nuevo registro.
+creamos el index.js  con los requerimientos de:<br>
+-crear una ruta GET que devuelva los registros de la tabla de la BD<br>
+-crear una ruta POST que reciba y almacene un nuevo registro.<br>
 las funciones las dejamos en consultas.js
 
 datos de prueba:<br>
