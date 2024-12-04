@@ -25,9 +25,9 @@ Nota: en la funcion agregarPost del App.js front, cambie url por img<br>
     await axios.post(urlBaseServer + "/posts", post);
     getPosts();
   };<br>******************************************************************** <br>
-  __Datos usados en la base de datos:__<br><br><br>
+  __Datos usados en la base de datos:__<br><br>
 CREATE TABLE posts (id SERIAL, titulo VARCHAR(25), img VARCHAR(1000),
- descripcion VARCHAR(255), likes INT);<br><br>
+ descripcion VARCHAR(255), likes INT);<br>
 
  INSERT INTO posts (titulo, img, descripcion, likes) VALUES
 ('Robert Downey Jr.', 'https://i.pinimg.com/736x/a6/26/7c/a6267c5922c3308c2e4a1f993e250045.jpg', 'Actor conocido por su papel como Iron Man.', 1500),
